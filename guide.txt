@@ -9,6 +9,7 @@ nodejs, vscode, nginx, pm2
 6. pm2 start blue green
 7. nginx conf 코딩
 8. nginx 실행
+9. blue green 교체
 
 
 ------------------------------------
