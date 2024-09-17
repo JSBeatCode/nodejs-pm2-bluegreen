@@ -1,0 +1,20 @@
+-prerequsite:
+nodejs, vscode, nginx, pm2 
+
+1. npm init -y
+2. npm i express ejs 
+3. views 코딩
+4. app.js 코딩
+5. ecosystem.config.js 코딩
+6. pm2 start blue green
+7. nginx conf 코딩
+8. nginx 실행
+
+
+------------------------------------
+git init
+git add .
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/JSBeatCode/nodejs-pm2-bluegreen.git
+git push -u origin main
